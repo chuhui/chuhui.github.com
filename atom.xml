@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[cch'github page]]></title>
   <link href="http://chuhui.github.com/atom.xml" rel="self"/>
   <link href="http://chuhui.github.com/"/>
-  <updated>2011-12-17T15:19:58+08:00</updated>
+  <updated>2011-12-17T20:25:36+08:00</updated>
   <id>http://chuhui.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[cch]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[posttest]]></title>
+    <link href="http://chuhui.github.com/blog/2011/12/17/posttest/"/>
+    <updated>2011-12-17T19:53:00+08:00</updated>
+    <id>http://chuhui.github.com/blog/2011/12/17/posttest</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TEST]]></title>
+    <link href="http://chuhui.github.com/blog/2011/12/17/test/"/>
+    <updated>2011-12-17T16:27:00+08:00</updated>
+    <id>http://chuhui.github.com/blog/2011/12/17/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://chuhui.github.com/blog/2011/12/17/new-post/"/>
+    <updated>2011-12-17T16:24:00+08:00</updated>
+    <id>http://chuhui.github.com/blog/2011/12/17/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
