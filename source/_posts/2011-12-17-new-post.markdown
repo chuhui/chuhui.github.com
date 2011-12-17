@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new-post"
+title: "测试下Octopress发布文章"
 date: 2011-12-17 16:24
 comments: true
 categories: 
