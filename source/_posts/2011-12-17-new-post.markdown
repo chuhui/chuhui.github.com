@@ -1,0 +1,7 @@
+---
+layout: post
+title: "new-post"
+date: 2011-12-17 16:24
+comments: true
+categories: 
+---
